@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+
+<html>
+<body>
+
+<h1>Moskva City Tour</h1>
+
+<p class="center">Se klippet og få et indblik af Moskva</p>
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/leqyze7Py0o" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+</body>
+</html>
